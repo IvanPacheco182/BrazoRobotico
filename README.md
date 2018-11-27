@@ -47,10 +47,10 @@ Se muestra la interfaz desarrollada en java para poder hacer la comunicación y 
 
 
 # Fotos del brazo ya funcionando y programado.
-![evidencia1](https://user-images.githubusercontent.com/evidencia1.png)
-![evidencia2](https://user-images.githubusercontent.com/evidencia2.png)
-![evidencia3](https://user-images.githubusercontent.com/evidencia3.png)
-![evidencia4](https://user-images.githubusercontent.com/evidencia4.png)
+![evidencia1](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/evidencia1.jpg)
+![evidencia2](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/evidencia2.jpg)
+![evidencia3](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/evidencia3jpg)
+![evidencia4](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/evidencia4.jpg)
 
  ## =============Información de Contacto=============
 Elaborado por: Oscar Iván Pacheco Vargas, Erick Alejandro Ochoa Gonzalez y Carlos Leonardo Luna Castillo.
