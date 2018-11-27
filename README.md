@@ -38,7 +38,8 @@
 * Librería y archivos para comunicación vía puerto serial Panamahitek(libre y disponible en https://sourceforge.net/projects/arduinoyjava/files/v2.7.0/)
  
  ## =============Información de Contacto=============
-Elaborado por: Oscar Iván Pacheco Vargas, Erick Alejandro Ochoa Gonzalez, 
+Elaborado por: Oscar Iván Pacheco Vargas, Erick Alejandro Ochoa Gonzalez y Carlos Leonardo Luna Castillo.
+
 correos electronicos de los contactos:
 
 Heavy.pacheco@gmail.com
