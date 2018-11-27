@@ -38,12 +38,12 @@
 * Librería y archivos para comunicación vía puerto serial Panamahitek(libre y disponible en https://sourceforge.net/projects/arduinoyjava/files/v2.7.0/)
  
 # Diagrama del brazo robótico:
-![diagrama del brazo robotico](https://user-images.githubusercontent.com/Diagrama.png)
+![diagrama del brazo robotico](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/Diagrama.png)
 
 # Interfaz de comunicación desarrollada en Java.
 Se muestra la interfaz desarrollada en java para poder hacer la comunicación y poder programar el brazo robotico. Contiene un botón para cada movimiento. Para mover una parte del brazo de usa una cantidad en grados.
 
-![CapturaJava](https://user-images.githubusercontent.com/CapturaJava.png)
+![CapturaJava](https://github.com/IvanPacheco182/BrazoRobotico/blob/master/CapturaJava.png)
 
 
 # Fotos del brazo ya funcionando y programado.
